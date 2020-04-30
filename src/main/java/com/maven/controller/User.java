@@ -1,5 +1,5 @@
 package com.maven.controller;
 
-public class demo {
+public class User {
 
 }
